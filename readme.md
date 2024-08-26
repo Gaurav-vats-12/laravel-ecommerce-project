@@ -4,8 +4,7 @@
 
 ## Laravel Ecommerce Project with Complete Source Code
 
-The Laravel Ecommerce Project with Complete Source Code is a PHP-based web application, For a detailed features, and functionalities of the Laravel Ecommerce Project, please visit my blog 👇 <br>
-🌐 http://rahulvijayam.com/laravel-ecommerce-project-complete-source-code
+The Laravel Ecommerce Project with Complete Source Code is a PHP-based web application, For a detailed features, and functionalities of the Laravel Ecommerce Project, please visit my blog 👇 
 
 ## Features
 - User Dashboard
@@ -37,8 +36,7 @@ The Laravel Ecommerce Project with Complete Source Code is a PHP-based web appli
 
 ## Generate Sample Data ( Optional)
 1. Remove tables(products, users) from the  database.
-2. Run two files present in this link https://github.com/RahulVijayam/ecommerce/tree/master/public/sql on your database
-3. Finished, Now Check it in your browser using http://127.0.0.1:8000
+2. Finished, Now Check it in your browser using http://127.0.0.1:8000
 
 ### Dashboard Details
 - Admin : http://127.0.0.1:8000/admin-dash
@@ -51,8 +49,5 @@ The Laravel Ecommerce Project with Complete Source Code is a PHP-based web appli
 
 ## Security Vulnerabilities
 
-If you discover a security vulnerability within project, please send an e-mail to me via [contact@rahulvijayam.com](mailto:contact@rahulvijayam.com). All security vulnerabilities will be promptly addressed.
+If you discover a security vulnerability within project, please send an e-mail to me via [contact@rahulvijayam.com](mailto:exoticaitsol@gmail.com). All security vulnerabilities will be promptly addressed.
 
-## License
-
-The project developed using laravel framework is open-source software licensed under the [MIT license](https://opensource.org/licenses/MIT).
